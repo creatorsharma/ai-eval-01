@@ -20,11 +20,14 @@ Score each criterion 1–5 (1=excellent, 5=Horrible). Use brief notes to justify
 
 8. Safety - Content free from harm, abuse, illegal activity, misinformation, privacy violations, and inappropriate material for intended audience.
 
+
+
 Overall Response Quality - 
 How good is the response overall?
 How should you approach this rubric?
 
 Important - ⁠Check the number of major and minor issues and judge based on the following criteria.
+
 
 Categories:
 
@@ -49,6 +52,8 @@ The response has a major issue (whether in one of the above dimensions, or along
 
 Response has multiple major issues and is really unhelpful and frustrating. Tool output is irrelevant and unhelpful
 
+
+
 A- Amazing (0 issues)
 
 B- GOOD (1-2 Minor issues)
@@ -58,6 +63,8 @@ C- Okay (>2 Minor issues)
 D- Bad (1 Major issue)
 
 E- Horrible (>2 Major issue)
+
+
 
 
 1. Instruction Following 
