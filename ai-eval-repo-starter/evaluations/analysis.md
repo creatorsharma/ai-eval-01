@@ -3,7 +3,7 @@
 - **Goal**: Compare models on instruction following + truthfulness.
 - **Setup**: 3 prompts, 3 models.
 - **Highlights**:
-  - Example: GPT-4o followed instructions best on prompt 002.
+  - Example: GPT-5 followed instructions best on prompt 002.
   - Example: Claude was most factual on prompt 001.
   - Example: Gemini produced the most concise answers.
 
