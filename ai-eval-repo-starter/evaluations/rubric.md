@@ -79,7 +79,7 @@ E- Horrible (>2 Major issue)
    - 3: Major issue
    - 4: N/A
 4. Content Relevancy
-    1: No issue
+    -1: No issue
    - 2: Minor Issue
    - 3: Major issue
    - 4: N/A
