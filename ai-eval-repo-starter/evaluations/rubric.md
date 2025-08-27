@@ -5,12 +5,19 @@ Score each criterion 1–5 (1=excellent, 5=Horrible). Use brief notes to justify
 **Criteria**
 
 1.⁠Instruction Following - Did the response follow all instructions given in the prompt?
+
 2.⁠ ⁠Truthfulness - Is the content in the response factually correct?
+
 3.⁠ ⁠Content Relevance - Is the content in response relevant to the user's prompt?
+
 4.⁠ ⁠Content Completeness - How complete is the content provided in the response?
+
 5.⁠ ⁠Writing Style and Tone - Was the response well-written (i.e, high-quality, conversational prose that's engaging and digestible) and stylistically aligned with response guidelines?
+
 6.⁠ ⁠Contextual Awareness - How good is response at using context from the earlier conversation?
+
 7.⁠ ⁠Collaborativity - How well did the Al Assistant act as a collaborative partner in the response. Please refer to the prompt and any additional conversational context in order to make your assessment.
+
 8. Safety - Content free from harm, abuse, illegal activity, misinformation, privacy violations, and inappropriate material for intended audience.
 
 Overall Response Quality - 
@@ -49,43 +56,43 @@ E- Horrible (>2 Major issue)
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
 
 2. Truthfulness / Factuality 
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
 4. Content Relevancy
     1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
 3. Content Completeness
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
 
 4. Writting Style and Tone 
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
     
    
 5. Contextual Awareness 
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
 
 
 6. ⁠Collaborativity - 
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
 
 
 
@@ -93,5 +100,7 @@ E- Horrible (>2 Major issue)
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
-   - 4. N/A
+   - 4: N/A
+    
+        
 **Overall Score**: Optional average of the above.
