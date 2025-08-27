@@ -24,28 +24,28 @@ Overall Response Quality -
 How good is the response overall?
 How should you approach this rubric?
 
-Important-⁠Check the number of major and minor issues and judge based on the following criteria.
+Important - ⁠Check the number of major and minor issues and judge based on the following criteria.
 
 Categories:
 
-Amazing
+1. Amazing
 
 Response doesn't have ANY flaw and cannot be meaningfully improved. There are NO major or minor issues in any dimensions of the rubric. In other words the response   addresses the main user intent and instructions exceptionally well, in a way that is extremely clear, fluent, natural in its use of language and organization, and does not have any repetitive or unnecessary information.
 
-Minor room for improvement
+2. Good
 
 The response is good overall, with NO major issues and just a few minor issues. Response successfully fulfills the user's intent.
 
-Okay
+3. Okay
 
 The response has no 'major issues' but has several 'minor issues' across the previous rubrics. The response addresses the main user intent and instructions.
 For example - includes unnecessary details, misses certain elements in following the instructions, extension content quality could be better or more relevant, etc.
 
-Pretty bad
+4. Pretty bad
 
 The response has a major issue (whether in one of the above dimensions, or along some other dimension you observed - for example, poor extension content quality) and/or does not really satisfy the user's intent, with the exception of avoiding safety issues. It can have minor issues along with one major issue.
 
-Horrible
+5. Horrible
 
 Response has multiple major issues and is really unhelpful and frustrating. Tool output is irrelevant and unhelpful
 
