@@ -1,2 +1,2 @@
 # Prompt 001 — 
-How will AI and automation shift power balances between nations?
+What’s the outlook for BRICS expansion and its challenge to the dollar?
