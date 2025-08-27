@@ -24,7 +24,7 @@ Overall Response Quality -
 How good is the response overall?
 How should you approach this rubric?
 
-1.⁠ ⁠Check the number of major and minor issues and judge based on the following criteria-
+*⁠Check the number of major and minor issues and judge based on the following criteria*
 
 Categories:
 
