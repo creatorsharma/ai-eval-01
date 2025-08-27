@@ -68,21 +68,26 @@ E- Horrible (>2 Major issue)
 
 
 1. Instruction Following 
+
+    - 1: No issue
+   - 2: Minor Issue
+   - 3: Major issue
+   - 4: N/A
+
+3. Truthfulness / Factuality 
+
+   - 1: No issue
+   - 2: Minor Issue
+   - 3: Major issue
+   - 4: N/A
+     
+2. Content Relevancy
    - 1: No issue
    - 2: Minor Issue
    - 3: Major issue
    - 4: N/A
 
-2. Truthfulness / Factuality 
-   - 1: No issue
-   - 2: Minor Issue
-   - 3: Major issue
-   - 4: N/A
-4. Content Relevancy
-    -1: No issue
-   - 2: Minor Issue
-   - 3: Major issue
-   - 4: N/A
+  
 3. Content Completeness
    - 1: No issue
    - 2: Minor Issue
