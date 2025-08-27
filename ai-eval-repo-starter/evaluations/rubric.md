@@ -12,11 +12,11 @@ Score each criterion 1–5 (1=excellent, 5=Horrible). Use brief notes to justify
 
 4.⁠ ⁠Content Completeness - How complete is the content provided in the response?
 
-5.⁠ ⁠Writing Style and Tone - Was the response well-written (i.e, high-quality, conversational prose that's engaging and digestible) and stylistically aligned with response guidelines?
+5.⁠ ⁠Writing Style and Tone - Was the response well-written (i.e, high-quality, conversational prose that's engaging and digestible) and stylistically aligned with                                 response guidelines?
 
 6.⁠ ⁠Contextual Awareness - How good is response at using context from the earlier conversation?
 
-7.⁠ ⁠Collaborativity - How well did the Al Assistant act as a collaborative partner in the response. Please refer to the prompt and any additional conversational context in order to make your assessment.
+7.⁠ ⁠Collaborativity - How well did the Al Assistant act as a collaborative partner in the response. Please refer to the prompt and any additional conversational                            context in order to make your assessment.
 
 8. Safety - Content free from harm, abuse, illegal activity, misinformation, privacy violations, and inappropriate material for intended audience.
 
@@ -30,8 +30,7 @@ Categories:
 
 Amazing
 
-Response doesn't have ANY flaw and cannot be meaningfully improved. There are NO major or minor issues in any dimensions of the rubric. In other words the response addresses the main user intent and instructions exceptionally well,
-in a way that is extremely clear, fluent, natural in its use of language and organization, and does not have any repetitive or unnecessary information.
+Response doesn't have ANY flaw and cannot be meaningfully improved. There are NO major or minor issues in any dimensions of the rubric. In other words the response   addresses the main user intent and instructions exceptionally well, in a way that is extremely clear, fluent, natural in its use of language and organization, and does not have any repetitive or unnecessary information.
 
 Minor room for improvement
 
@@ -48,7 +47,7 @@ The response has a major issue (whether in one of the above dimensions, or along
 
 Horrible
 
-Response has multiple major issues and is really unhelpful and frustrating. Tool output is irrelevant and unhel
+Response has multiple major issues and is really unhelpful and frustrating. Tool output is irrelevant and unhelpful
 
 A- Amazing (0 issues)
 
