@@ -4,7 +4,7 @@ Score each criterion 1–5 (1=excellent, 5=Horrible). Use brief notes to justify
 
 **Criteria**
 
-1.⁠Instruction Following - Did the response follow all instructions given in the prompt?
+1.⁠ Instruction Following - Did the response follow all instructions given in the prompt?
 
 2.⁠ ⁠Truthfulness - Is the content in the response factually correct?
 
@@ -28,27 +28,36 @@ How should you approach this rubric?
 
 Categories:
 
-Cannot be improved
+Amazing
+
 Response doesn't have ANY flaw and cannot be meaningfully improved. There are NO major or minor issues in any dimensions of the rubric. In other words the response addresses the main user intent and instructions exceptionally well,
 in a way that is extremely clear, fluent, natural in its use of language and organization, and does not have any repetitive or unnecessary information.
 
 Minor room for improvement
+
 The response is good overall, with NO major issues and just a few minor issues. Response successfully fulfills the user's intent.
 
 Okay
+
 The response has no 'major issues' but has several 'minor issues' across the previous rubrics. The response addresses the main user intent and instructions.
 For example - includes unnecessary details, misses certain elements in following the instructions, extension content quality could be better or more relevant, etc.
 
 Pretty bad
+
 The response has a major issue (whether in one of the above dimensions, or along some other dimension you observed - for example, poor extension content quality) and/or does not really satisfy the user's intent, with the exception of avoiding safety issues. It can have minor issues along with one major issue.
 
 Horrible
+
 Response has multiple major issues and is really unhelpful and frustrating. Tool output is irrelevant and unhel
 
 A- Amazing (0 issues)
+
 B- GOOD (1-2 Minor issues)
+
 C- Okay (>2 Minor issues)
+
 D- Bad (1 Major issue)
+
 E- Horrible (>2 Major issue)
 
 
