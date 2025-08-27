@@ -1,0 +1,2 @@
+id,prompt_file,prompt_category,model,criterion,score,notes,evaluator,date
+1,001_factual.md,factual,gpt-4o,truthfulness,4,Mostly correct with minor wording nit.,you,2025-08-26
