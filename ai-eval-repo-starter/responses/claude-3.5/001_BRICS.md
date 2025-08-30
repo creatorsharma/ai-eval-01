@@ -1,4 +1,4 @@
-Model: Claude 3.5
+Model: Claude Sonet 4
 Prompt: 001_BRICS.md
 
 The BRICS expansion represents the most significant challenge to the dollar-dominated international financial system since the creation of the Bretton Woods framework. Understanding this shift requires examining both the group's rapid growth and its coordinated de-dollarization strategy.
