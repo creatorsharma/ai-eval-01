@@ -1,4 +1,4 @@
-Model: GPT-5o
+Model: GPT-5
 
 Prompt: 002_AI_Automation.md
 
