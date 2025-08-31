@@ -1,5 +1,7 @@
 Model: Claude Sonet 4
 
+Prompt: 002_AI_Automation.md
+
 The rise of AI and automation is fundamentally reshaping global power dynamics, creating new forms of inequality while potentially democratizing certain capabilities.
 
 Economic and Technological Advantages:
