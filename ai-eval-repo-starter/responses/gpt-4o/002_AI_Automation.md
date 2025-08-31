@@ -1,3 +1,7 @@
+Model: GPT-5o
+
+Prompt: 002_AI_Automation.md
+
 Artificial Intelligence (AI) and automation are reshaping global power dynamics by redefining economic competitiveness, military capabilities, and governance structures. Nations that master these technologies will gain strategic advantages, while those lagging risk marginalization.
 
 Advantages:
