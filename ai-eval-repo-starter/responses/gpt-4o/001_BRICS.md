@@ -1,4 +1,5 @@
 Model: GPT-5
+
 Prompt: 001_BRICS.md
 
 Outlook for BRICS Expansion and the Challenge to the Dollar
