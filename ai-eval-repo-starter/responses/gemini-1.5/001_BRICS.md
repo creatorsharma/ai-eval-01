@@ -1,4 +1,4 @@
-Model: Gemini 1.5
+Model: Gemini 2.5 Flash
 Prompt: 001_BRICS.md
 
 The recent expansion of the BRICS bloc (Brazil, Russia, India, China, and South Africa) to include new members like Egypt, Ethiopia, Iran, and the United Arab Emirates marks a significant shift in global power dynamics. This expansion is driven by a shared desire among member nations to challenge the Western-dominated global order and create a more multipolar world.
