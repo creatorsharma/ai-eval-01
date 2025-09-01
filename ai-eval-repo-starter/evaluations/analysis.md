@@ -16,6 +16,8 @@ Horrible → Multiple major issues, irrelevant or frustrating, fails the user.
 
 📊 Likert Scale (Comparative Ranking)
 
+⚠️ Note: Likert scale is only applicable when comparing two responses.
+
 After scoring each response individually, compare Response A vs Response B on a 1–7 scale:
 
 1 → A much better than B
