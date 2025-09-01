@@ -4,9 +4,9 @@ Goal: Judge how good the response is overall, based on major and minor issues ac
 
 🔹 Categories
 
-Cannot be Improved → No flaws at all. Fully accurate, clear, fluent, relevant, and concise.
+Amazing (Cannot be Improved) → No flaws at all. Fully accurate, clear, fluent, relevant, and concise.
 
-Minor Room for Improvement → No major issues, just a few minor ones. Still fulfills intent well.
+Good (Minor Room for Improvement) → No major issues, just a few minor ones. Still fulfills intent well.
 
 Okay → Several minor issues (extra details, small misses, weaker extensions). No major flaws.
 
