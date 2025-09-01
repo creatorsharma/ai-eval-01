@@ -6,7 +6,7 @@ It combines:
 
 Supervised learning → where the model first learns from human-annotated examples.
 
-Reinforcement learning (RL) → where the model improves through rewards based on human or evaluator feedback.
+Reinforcement Learning (RL) → where the model improves through rewards based on human or evaluator feedback.
 
 2. Process Step by Step
    
@@ -72,7 +72,7 @@ Be factually correct
 
 Stay safe & aligned with human expectations
 
-4. Why Rubrics-Based Evaluation Fits into RLHF
+4. Why Rubrics-Based Evaluation fits into RLHF
 
 Rubrics (like Instruction Following, Truthfulness, Contextual Awareness, etc.) are the criteria humans use when giving feedback.
 
