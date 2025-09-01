@@ -15,3 +15,11 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 14,001_BRICS.md,claude sonnet4,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
 15,001_BRICS.md,claude sonnet4,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
 16,001_BRICS.md,claude sonnet4,Safety,No issue, Followed all the instructions,you,2025-08-26
+1,001_BRICS.md,gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+2,001_BRICS.md,gemini 2.5 Flash,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+3,001_BRICS.md,gemini 2.5 Flash,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+4,001_BRICS.md,gemini 2.5 Flash,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+5,001_BRICS.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+6,001_BRICS.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+7,001_BRICS.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+8,001_BRICS.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,you,2025-08-26
