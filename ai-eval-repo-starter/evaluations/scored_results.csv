@@ -12,6 +12,17 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 gid,prompt_file,model,criterion,rating,notes,evaluator,date
 1,001_BRICS.md,gpt-4o,Instruction following,No issue, Followed all the instructions,you,2025-08-26
 2,001_BRICS.md,gpt-4o,truthfulness,No issue, Followed all the instructions,you,2025-08-26
