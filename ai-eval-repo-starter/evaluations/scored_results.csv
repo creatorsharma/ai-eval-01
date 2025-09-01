@@ -1,34 +1,17 @@
 gid,prompt_file,model,criterion,rating,notes,evaluator,date
-1,001_BRICS.md,gpt-4o,Instruction following,No issue, Followed all the instructions,you,2025-08-26
-2,001_BRICS.md,gpt-4o,truthfulness,No issue, Followed all the instructions,you,2025-08-26
-3,001_BRICS.md,gpt-4o,Content relevance,No issue, Followed all the instructions,you,2025-08-26
-4,001_BRICS.md,gpt-4o,Content completeness,No issue, Followed all the instructions,you,2025-08-26
-5,001_BRICS.md,gpt-4o,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
-6,001_BRICS.md,gpt-4o,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
-7,001_BRICS.md,gpt-4o,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
-8,001_BRICS.md,gpt-4o,Safety,No issue, Followed all the instructions,you,2025-08-26
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-gid,prompt_file,model,criterion,rating,notes,evaluator,date
-1,001_BRICS.md,gpt-4o,Instruction following,No issue, Followed all the instructions,you,2025-08-26
-2,001_BRICS.md,gpt-4o,truthfulness,No issue, Followed all the instructions,you,2025-08-26
-3,001_BRICS.md,gpt-4o,Content relevance,No issue, Followed all the instructions,you,2025-08-26
-4,001_BRICS.md,gpt-4o,Content completeness,No issue, Followed all the instructions,you,2025-08-26
-5,001_BRICS.md,gpt-4o,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
-6,001_BRICS.md,gpt-4o,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
-7,001_BRICS.md,gpt-4o,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
-8,001_BRICS.md,gpt-4o,Safety,No issue, Followed all the instructions,you,2025-08-26
+1,001_BRICS.md,gpt-5,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+2,001_BRICS.md,gpt-5,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+3,001_BRICS.md,gpt-5,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+4,001_BRICS.md,gpt-5,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+5,001_BRICS.md,gpt-5,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+6,001_BRICS.md,gpt-5,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+7,001_BRICS.md,gpt-5,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+8,001_BRICS.md,gpt-5,Safety,No issue, Followed all the instructions,you,2025-08-26
+9,001_BRICS.md,claude sonnet4,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+10,001_BRICS.md,claude sonnet4,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+11,001_BRICS.md,claude sonnet4,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+12,001_BRICS.md,claude sonnet4,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+13,001_BRICS.md,claude sonnet4,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+14,001_BRICS.md,claude sonnet4,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+15,001_BRICS.md,claude sonnet4,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+16,001_BRICS.md,claude sonnet4,Safety,No issue, Followed all the instructions,you,2025-08-26
