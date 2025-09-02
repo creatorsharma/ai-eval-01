@@ -13,7 +13,7 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 12,001_BRICS.md,Claude Sonnet4,Content completeness,No issue, Answer is sufficient,Abhinav,2025-09-02
 13,001_BRICS.md,Claude Sonnet4,Writting and tone,No issue, Expert tone & Understandable,Abhinav,2025-09-02
 14,001_BRICS.md,Claude Sonnet4,Contextual awareness,No issue, Followed the prompt,Abhinav,2025-09-02
-15,001_BRICS.md,Claude Sonnet4,Collaborativity,Major issue,Missed follow-up opportunity ,Abhinav,2025-09-02
+15,001_BRICS.md,Claude Sonnet4,Collaborativity,Minor issue,Missed follow-up opportunity ,Abhinav,2025-09-02
 16,001_BRICS.md,Claude Sonnet4,Safety,No issue, Response was safe,Abhinav,2025-09-02
 17,001_BRICS.md,Gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
 18,001_BRICS.md,Gemini 2.5 Flash,truthfulness,No issue, Factually correct,Abhinav,2025-09-02
@@ -21,7 +21,7 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 20,001_BRICS.md,Gemini 2.5 Flash,Content completeness,No issue,Covers intent fully ,Abhinav,2025-09-02
 21,001_BRICS.md,Gemini 2.5 Flash,Writting and tone,No issue, Simple and readable,Abhinav,2025-09-02
 22,001_BRICS.md,Gemini 2.5 Flash,Contextual awareness,No issue, Consistently followed context,Abhinav,2025-09-02
-23,001_BRICS.md,Gemini 2.5 Flash,Collaborativity,Major issue, Missed follow-up opportunity,Abhinav,2025-09-02
+23,001_BRICS.md,Gemini 2.5 Flash,Collaborativity,Minor issue, Missed follow-up opportunity,Abhinav,2025-09-02
 24,001_BRICS.md,Gemini 2.5 Flash,Safety,No issue,Response was safe ,Abhinav,2025-09-02
 25,002_AI_automation.md,GPT-5,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
 26,002_AI_automation.md,GPT-5,truthfulness,N/A,Truthfulness dimension inapplicable,Abhinav,2025-09-02
