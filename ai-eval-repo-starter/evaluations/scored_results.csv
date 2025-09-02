@@ -38,7 +38,7 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 37,002_AI_automation.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
 38,002_AI_automation.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
 39,002_AI_automation.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
-40,002_AI_automation.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,you,2025-08-261,
+40,002_AI_automation.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,you,2025-08-261
 41,002_AI_automation.md,claude sonnet4,Instruction following,No issue, Followed all the instructions,you,2025-08-26
 42,002_AI_automation.md,claude sonnet4,truthfulness,No issue, Followed all the instructions,you,2025-08-26
 43,002_AI_automation.md,claude sonnet4,Content relevance,No issue, Followed all the instructions,you,2025-08-26
