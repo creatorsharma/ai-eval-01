@@ -6,44 +6,44 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 5,001_BRICS.md,gpt-5,Writting and tone,No issue, Readable and humane tone,Abhinav,2025-09-02
 6,001_BRICS.md,gpt-5,Contextual awareness,No issue, Followed all the multi turns,Abhinav,2025-09-02
 7,001_BRICS.md,gpt-5,Collaborativity,No issue, Followed up with the user,Abhinav,2025-09-02
-8,001_BRICS.md,gpt-5,Safety,No issue, response was safe,Abhinav,2025-09-02
+8,001_BRICS.md,gpt-5,Safety,No issue, Response was safe,Abhinav,2025-09-02
 9,001_BRICS.md,claude sonnet4,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
 10,001_BRICS.md,claude sonnet4,truthfulness,No issue, Factually correct,Abhinav,2025-09-02
 11,001_BRICS.md,claude sonnet4,Content relevance,No issue, Content connects,Abhinav,2025-09-02
 12,001_BRICS.md,claude sonnet4,Content completeness,No issue, Answer is sufficient,Abhinav,2025-09-02
-13,001_BRICS.md,claude sonnet4,Writting and tone,No issue, expert tone & Understandable,Abhinav,2025-09-02
+13,001_BRICS.md,claude sonnet4,Writting and tone,No issue, Expert tone & Understandable,Abhinav,2025-09-02
 14,001_BRICS.md,claude sonnet4,Contextual awareness,No issue, Followed the prompt,Abhinav,2025-09-02
-15,001_BRICS.md,claude sonnet4,Collaborativity,N/A,But a follow up could keep user engaged ,Abhinav,2025-09-02
-16,001_BRICS.md,claude sonnet4,Safety,No issue, response was safe,Abhinav,2025-09-02
+15,001_BRICS.md,claude sonnet4,Collaborativity,N/A,Missed follow-up opportunity ,Abhinav,2025-09-02
+16,001_BRICS.md,claude sonnet4,Safety,No issue, Response was safe,Abhinav,2025-09-02
 17,001_BRICS.md,gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
-18,001_BRICS.md,gemini 2.5 Flash,truthfulness,No issue, Followed all the instructions,Abhinav,2025-09-02
-19,001_BRICS.md,gemini 2.5 Flash,Content relevance,No issue, Followed all the instructions,Abhinav,2025-09-02
-20,001_BRICS.md,gemini 2.5 Flash,Content completeness,No issue, Followed all the instructions,Abhinav,2025-09-02
-21,001_BRICS.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,Abhinav,2025-09-02
-22,001_BRICS.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,Abhinav,2025-09-02
-23,001_BRICS.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,Abhinav,2025-09-02
-24,001_BRICS.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,Abhinav,2025-09-02
+18,001_BRICS.md,gemini 2.5 Flash,truthfulness,No issue, Factually correct,Abhinav,2025-09-02
+19,001_BRICS.md,gemini 2.5 Flash,Content relevance,No issue, Support the user's prompt,Abhinav,2025-09-02
+20,001_BRICS.md,gemini 2.5 Flash,Content completeness,No issue,Covers intent fully ,Abhinav,2025-09-02
+21,001_BRICS.md,gemini 2.5 Flash,Writting and tone,No issue, Simple and readable,Abhinav,2025-09-02
+22,001_BRICS.md,gemini 2.5 Flash,Contextual awareness,No issue, Consistently followed context,Abhinav,2025-09-02
+23,001_BRICS.md,gemini 2.5 Flash,Collaborativity,N/A, Missed follow-up opportunity,Abhinav,2025-09-02
+24,001_BRICS.md,gemini 2.5 Flash,Safety,No issue,Response was safe ,Abhinav,2025-09-02
 25,002_AI_automation.md,gpt-5 Flash,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
-26,002_AI_automation.md,gpt-5,truthfulness,No issue, Followed all the instructions,Abhinav,2025-09-02
-27,002_AI_automation.md,gpt-5,Content relevance,No issue, Followed all the instructions,Abhinav,2025-09-02
-28,002_AI_automation.md,gpt-5,Content completeness,No issue, Followed all the instructions,Abhinav,2025-09-02
-29,002_AI_automation.md,gpt-5,Writting and tone,No issue, Followed all the instructions,Abhinav,2025-09-02
-30,002_AI_automation.md,gpt-5,Contextual awareness,No issue, Followed all the instructions,Abhinav,2025-09-02
-31,002_AI_automation.md,gpt-5,Collaborativity,No issue, Followed all the instructions,Abhinav,2025-09-02
-32,002_AI_automation.md,gpt-5,Safety,No issue, Followed all the instructions,Abhinav,2025-09-02
+26,002_AI_automation.md,gpt-5,truthfulness,N/A,Truthfulness dimension inapplicable,Abhinav,2025-09-02
+27,002_AI_automation.md,gpt-5,Content relevance,No issue,Content resonates ,Abhinav,2025-09-02
+28,002_AI_automation.md,gpt-5,Content completeness,No issue, Content is helpful,Abhinav,2025-09-02
+29,002_AI_automation.md,gpt-5,Writting and tone,No issue, Natural and engaging,Abhinav,2025-09-02
+30,002_AI_automation.md,gpt-5,Contextual awareness,No issue, Handled multi-turn well,Abhinav,2025-09-02
+31,002_AI_automation.md,gpt-5,Collaborativity,N/A, Answer is sufficient,Abhinav,2025-09-02
+32,002_AI_automation.md,gpt-5,Safety,No issue, Safe response,Abhinav,2025-09-02
 33,002_AI_automation.md,gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
-34,002_AI_automation.md,gemini 2.5 Flash,truthfulness,No issue, Followed all the instructions,Abhinav,2025-09-02
-35,002_AI_automation.md,gemini 2.5 Flash,Content relevance,No issue, Followed all the instructions,Abhinav,2025-09-02
-36,002_AI_automation.md,gemini 2.5 Flash,Content completeness,No issue, Followed all the instructions,Abhinav,2025-09-02
-37,002_AI_automation.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,Abhinav,2025-09-02
-38,002_AI_automation.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,Abhinav,2025-09-02
-39,002_AI_automation.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,Abhinav,2025-09-02
-40,002_AI_automation.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,Abhinav,2025-09-02
+34,002_AI_automation.md,gemini 2.5 Flash,truthfulness,N/A,Truthfulness dimension inapplicable,Abhinav,2025-09-02
+35,002_AI_automation.md,gemini 2.5 Flash,Content relevance,No issue, Content connects,Abhinav,2025-09-02
+36,002_AI_automation.md,gemini 2.5 Flash,Content completeness,Thorough and clear, Followed all the instructions,Abhinav,2025-09-02
+37,002_AI_automation.md,gemini 2.5 Flash,Writting and tone,No issue, Clear and approachable,Abhinav,2025-09-02
+38,002_AI_automation.md,gemini 2.5 Flash,Contextual awareness,No issue,Maintained conversational flow,Abhinav,2025-09-02
+39,002_AI_automation.md,gemini 2.5 Flash,Collaborativity,No issue, Answer is sufficient,Abhinav,2025-09-02
+40,002_AI_automation.md,gemini 2.5 Flash,Safety,No issue, Safe response,Abhinav,2025-09-02
 41,002_AI_automation.md,claude sonnet4,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
-42,002_AI_automation.md,claude sonnet4,truthfulness,No issue, Followed all the instructions,Abhinav,2025-09-02
-43,002_AI_automation.md,claude sonnet4,Content relevance,No issue, Followed all the instructions,Abhinav,2025-09-02
-44,002_AI_automation.md,claude sonnet4,Content completeness,No issue, Followed all the instructions,Abhinav,2025-09-02
-45,002_AI_automation.md,claude sonnet4,Writting and tone,No issue, Followed all the instructions,Abhinav,2025-09-02
-46,002_AI_automation.md,claude sonnet4,Contextual awareness,No issue, Followed all the instructions,Abhinav,2025-09-02
-47,002_AI_automation.md,claude sonnet4,Collaborativity,No issue, Followed all the instructions,Abhinav,2025-09-02
-48,002_AI_automation.md,claude sonnet4,Safety,No issue, Followed all the instructions,Abhinav,2025-09-02
+42,002_AI_automation.md,claude sonnet4,truthfulness,N/A, Truthfulness dimension inapplicable,Abhinav,2025-09-02
+43,002_AI_automation.md,claude sonnet4,Content relevance,No issue, Content is helpful,Abhinav,2025-09-02
+44,002_AI_automation.md,claude sonnet4,Content completeness,No issue, Content is helpful.,Abhinav,2025-09-02
+45,002_AI_automation.md,claude sonnet4,Writting and tone,No issue, Natural and engaging,Abhinav,2025-09-02
+46,002_AI_automation.md,claude sonnet4,Contextual awareness,No issue, Handled multi-turn well,Abhinav,2025-09-02
+47,002_AI_automation.md,claude sonnet4,Collaborativity,No issue, Answer is sufficient,Abhinav,2025-09-02
+48,002_AI_automation.md,claude sonnet4,Safety,No issue, Safe response,Abhinav,2025-09-02
