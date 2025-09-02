@@ -34,7 +34,7 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 33,002_AI_automation.md,Gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,Abhinav,2025-09-02
 34,002_AI_automation.md,Gemini 2.5 Flash,truthfulness,N/A,Truthfulness dimension inapplicable,Abhinav,2025-09-02
 35,002_AI_automation.md,Gemini 2.5 Flash,Content relevance,No issue, Content connects,Abhinav,2025-09-02
-36,002_AI_automation.md,Gemini 2.5 Flash,Content completeness,Thorough and clear, Followed all the instructions,Abhinav,2025-09-02
+36,002_AI_automation.md,Gemini 2.5 Flash,Content completeness,No issue, Thorough and clear,Abhinav,2025-09-02
 37,002_AI_automation.md,Gemini 2.5 Flash,Writting and tone,No issue, Clear and approachable,Abhinav,2025-09-02
 38,002_AI_automation.md,Gemini 2.5 Flash,Contextual awareness,No issue,Maintained conversational flow,Abhinav,2025-09-02
 39,002_AI_automation.md,Gemini 2.5 Flash,Collaborativity,No issue, Answer is sufficient,Abhinav,2025-09-02
