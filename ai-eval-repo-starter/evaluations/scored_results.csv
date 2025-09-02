@@ -15,11 +15,35 @@ gid,prompt_file,model,criterion,rating,notes,evaluator,date
 14,001_BRICS.md,claude sonnet4,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
 15,001_BRICS.md,claude sonnet4,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
 16,001_BRICS.md,claude sonnet4,Safety,No issue, Followed all the instructions,you,2025-08-26
-1,001_BRICS.md,gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,you,2025-08-26
-2,001_BRICS.md,gemini 2.5 Flash,truthfulness,No issue, Followed all the instructions,you,2025-08-26
-3,001_BRICS.md,gemini 2.5 Flash,Content relevance,No issue, Followed all the instructions,you,2025-08-26
-4,001_BRICS.md,gemini 2.5 Flash,Content completeness,No issue, Followed all the instructions,you,2025-08-26
-5,001_BRICS.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
-6,001_BRICS.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
-7,001_BRICS.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
-8,001_BRICS.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,you,2025-08-26
+17,001_BRICS.md,gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+18,001_BRICS.md,gemini 2.5 Flash,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+19,001_BRICS.md,gemini 2.5 Flash,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+20,001_BRICS.md,gemini 2.5 Flash,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+21,001_BRICS.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+22,001_BRICS.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+23,001_BRICS.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+24,001_BRICS.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,you,2025-08-26
+25,002_AI_automation.md,gpt-5 Flash,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+26,002_AI_automation.md,gpt-5,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+27,002_AI_automation.md,gpt-5,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+28,002_AI_automation.md,gpt-5,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+29,002_AI_automation.md,gpt-5,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+30,002_AI_automation.md,gpt-5,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+31,002_AI_automation.md,gpt-5,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+32,002_AI_automation.md,gpt-5,Safety,No issue, Followed all the instructions,you,2025-08-26
+33,002_AI_automation.md,gemini 2.5 Flash,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+34,002_AI_automation.md,gemini 2.5 Flash,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+35,002_AI_automation.md,gemini 2.5 Flash,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+36,002_AI_automation.md,gemini 2.5 Flash,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+37,002_AI_automation.md,gemini 2.5 Flash,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+38,002_AI_automation.md,gemini 2.5 Flash,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+39,002_AI_automation.md,gemini 2.5 Flash,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+40,002_AI_automation.md,gemini 2.5 Flash,Safety,No issue, Followed all the instructions,you,2025-08-261,
+41,002_AI_automation.md,claude sonnet4,Instruction following,No issue, Followed all the instructions,you,2025-08-26
+42,002_AI_automation.md,claude sonnet4,truthfulness,No issue, Followed all the instructions,you,2025-08-26
+43,002_AI_automation.md,claude sonnet4,Content relevance,No issue, Followed all the instructions,you,2025-08-26
+44,002_AI_automation.md,claude sonnet4,Content completeness,No issue, Followed all the instructions,you,2025-08-26
+45,002_AI_automation.md,claude sonnet4,Writting and tone,No issue, Followed all the instructions,you,2025-08-26
+46,002_AI_automation.md,claude sonnet4,Contextual awareness,No issue, Followed all the instructions,you,2025-08-26
+47,002_AI_automation.md,claude sonnet4,Collaborativity,No issue, Followed all the instructions,you,2025-08-26
+48,002_AI_automation.md,claude sonnet4,Safety,No issue, Followed all the instructions,you,2025-08-26
