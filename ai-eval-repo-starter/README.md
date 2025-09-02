@@ -10,7 +10,7 @@ The goal is to test models side by side, apply consistent rubrics, and surface m
 
 - **prompts/** → contains the exact test prompts (one file per prompt).  
 - **responses/<model>/** → raw outputs from each model (GPT, Claude, Gemini), matched to prompt filenames.  
-- **evaluations/** → rubric details, scoring results, and analysis reports.  
+- **evaluations/** → RLHF model, rubric details,overall response quality, likert scale, scoring results, and analysis reports.  
 - **scripts/** → helper tools for scoring or formatting.  
 - **notebooks/** → optional Jupyter notebooks for extended analysis or visualization.  
 
