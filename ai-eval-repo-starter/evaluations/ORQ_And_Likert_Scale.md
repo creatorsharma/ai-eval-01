@@ -1,8 +1,8 @@
-📝 Overall Response Quality (ORQ)
+Overall Response Quality (ORQ)
 
 Goal: Judge how good the response is overall, based on major and minor issues across rubrics.
 
-🔹 Categories
+ Categories
 
 Amazing (Cannot be Improved) → No flaws at all. Fully accurate, clear, fluent, relevant, and concise.
 
